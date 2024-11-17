@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d547c305.css",
+    "main.js": "/static/js/main.96863cfe.js",
+    "static/js/453.a9ef8f19.chunk.js": "/static/js/453.a9ef8f19.chunk.js",
+    "static/media/reyes.png": "/static/media/reyes.ec00ad550bd2eced57ae.png",
+    "static/media/santa.png": "/static/media/santa.c051fba4049ae5d3f120.png",
+    "index.html": "/index.html",
+    "main.d547c305.css.map": "/static/css/main.d547c305.css.map",
+    "main.96863cfe.js.map": "/static/js/main.96863cfe.js.map",
+    "453.a9ef8f19.chunk.js.map": "/static/js/453.a9ef8f19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d547c305.css",
+    "static/js/main.96863cfe.js"
+  ]
+}
